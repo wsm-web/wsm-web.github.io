@@ -1,3 +1,12 @@
+.body {
+  background: #320139;
+}
+
+.body2 {
+  background: #331b3b;
+}
+
+
 .rd-navbar-panel {
   transition: 0.35s all cubic-bezier(0.65, 0.05, 0.36, 1);
 }
@@ -14,9 +23,9 @@
 }
 
 .rd-navbar-panel {
-  color: #9b9b9b;
+  color: #3d3d3d;
   box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.25);
-  background: #d7d7d7;
+  background: #737373;
 }
 
 .rd-navbar-panel {
