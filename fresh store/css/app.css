@@ -14,9 +14,9 @@
 }
 
 .rd-navbar-panel {
-  color: #3d3d3d;
+  color: #fff;
   box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.25);
-  background: #737373;
+  background: #f3f3f3;
 }
 
 .rd-navbar-panel {
@@ -48,7 +48,7 @@
 
 .rd-navbar-panela {
   color: #3d3d3d;
-  box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.25);
+  box-shadow: 0px 0px 15px #ff9fe6;
   background: #dcdcdc;
 }
 
@@ -64,4 +64,9 @@
 
 i{
   color: #FF4BF6;
+}
+
+.bg-rosa{
+  background: #ff97fa;
+  width: 2px;
 }
